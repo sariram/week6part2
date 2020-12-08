@@ -5,7 +5,7 @@ body {
   color: #3396FF; }
 
 h1 {
-  font-size: 10em;
+  font-size: 3em;
   color: #3396FF; }
 
 h2 {
@@ -19,11 +19,6 @@ h3 {
 p {
   font-size: 2em;
   color: black; }
-
-h7 {
-  font-size: 3em;
-  color: black;
-  padding-bottom: 10px; }
 
 .btn {
   color: #fff;
